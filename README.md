@@ -1,3 +1,7 @@
+# Parcours français
+
+Ce dépôt propose un parcours documentaire en français consacré aux contrats Immutable pour Immutable X et Immutable zkEVM : presets de tokens, bridging, marketplaces, AMM, wallets et ABIs. Voir [le sommaire](docs/fr/README.md).
+
 # Immutable Contracts
 
 <p align="center"><img src="https://cdn.dribbble.com/users/1299339/screenshots/7133657/media/837237d447d36581ebd59ec36d30daea.gif" width="280"/></p>
